@@ -5,7 +5,7 @@
 The application can be built using the following command:
 
 ```
-mvnw clean package
+mvnw clean install
 ```
 
 The application can then be started with the following command - here with the profile `production`:
@@ -14,4 +14,6 @@ The application can then be started with the following command - here with the p
 java -jar ./target/csv-handler-0.0.1-SNAPSHOT.jar
 ```
 
-After starting the application it is accessible under `localhost:8080`.
+After starting the application, enter `localhost:8080/swagger-ui/index.html` in your browser to access the swagger doc.
+
+---
