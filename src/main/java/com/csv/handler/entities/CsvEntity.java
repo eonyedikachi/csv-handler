@@ -1,4 +1,4 @@
-package com.csv.handler.csv_handler.entities;
+package com.csv.handler.entities;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

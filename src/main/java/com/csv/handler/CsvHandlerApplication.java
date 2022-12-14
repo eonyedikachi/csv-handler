@@ -1,4 +1,4 @@
-package com.csv.handler.csv_handler;
+package com.csv.handler;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

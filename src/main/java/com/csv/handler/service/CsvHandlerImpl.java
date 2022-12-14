@@ -1,9 +1,9 @@
-package com.csv.handler.csv_handler.service;
+package com.csv.handler.service;
 
-import com.csv.handler.csv_handler.entities.CsvEntity;
-import com.csv.handler.csv_handler.dtos.CsvDto;
-import com.csv.handler.csv_handler.repos.CsvHandlerRepository;
-import com.csv.handler.csv_handler.exceptions.NotFoundException;
+import com.csv.handler.entities.CsvEntity;
+import com.csv.handler.dtos.CsvDto;
+import com.csv.handler.repos.CsvHandlerRepository;
+import com.csv.handler.exceptions.NotFoundException;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import com.csv.handler.csv_handler.util.CSVUtil;
+import com.csv.handler.util.CSVUtil;
 import com.opencsv.bean.CsvToBean;
 import com.opencsv.bean.CsvToBeanBuilder;
 import lombok.extern.slf4j.Slf4j;

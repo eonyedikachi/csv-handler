@@ -1,8 +1,8 @@
-package com.csv.handler.csv_handler.service;
+package com.csv.handler.service;
 
-import com.csv.handler.csv_handler.dtos.CsvDto;
-import com.csv.handler.csv_handler.entities.CsvEntity;
-import com.csv.handler.csv_handler.repos.CsvHandlerRepository;
+import com.csv.handler.dtos.CsvDto;
+import com.csv.handler.entities.CsvEntity;
+import com.csv.handler.repos.CsvHandlerRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;

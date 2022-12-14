@@ -1,4 +1,4 @@
-package com.csv.handler.csv_handler.exceptions;
+package com.csv.handler.exceptions;
 
 import java.util.List;
 import lombok.Getter;

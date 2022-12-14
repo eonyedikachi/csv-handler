@@ -1,4 +1,4 @@
-package com.csv.handler.csv_handler.dtos;
+package com.csv.handler.dtos;
 
 import com.opencsv.bean.CsvBindByName;
 import jakarta.validation.constraints.Size;

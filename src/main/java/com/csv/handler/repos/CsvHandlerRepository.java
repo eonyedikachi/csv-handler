@@ -1,6 +1,6 @@
-package com.csv.handler.csv_handler.repos;
+package com.csv.handler.repos;
 
-import com.csv.handler.csv_handler.entities.CsvEntity;
+import com.csv.handler.entities.CsvEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 

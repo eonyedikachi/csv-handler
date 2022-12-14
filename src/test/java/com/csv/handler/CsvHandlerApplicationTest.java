@@ -1,4 +1,4 @@
-package com.csv.handler.csv_handler;
+package com.csv.handler;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

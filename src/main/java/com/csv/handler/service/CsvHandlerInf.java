@@ -1,7 +1,6 @@
-package com.csv.handler.csv_handler.service;
+package com.csv.handler.service;
 
-import com.csv.handler.csv_handler.dtos.CsvDto;
-import org.springframework.stereotype.Service;
+import com.csv.handler.dtos.CsvDto;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.util.List;
