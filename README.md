@@ -8,7 +8,7 @@ The application can be built using the following command:
 mvnw clean install
 ```
 
-The application can then be started with the following command - here with the profile `production`:
+The application can then be started with the following command:
 
 ```
 java -jar ./target/csv-handler-0.0.1-SNAPSHOT.jar
